@@ -1,0 +1,19 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #003949;
+}
+
+
+.card{
+     border: 2x solid black; 
+    padding: 30px;
+    width: 30%;
+    background-color: #003949;
+    color: white;
+}
+.label{
+    color: white;
+}
